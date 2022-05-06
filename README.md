@@ -38,8 +38,6 @@ _A lo largo del semestre se desarrolló el proyecto en un conjunto de fases desc
 
 ![Dashboard 2](https://github.com/mateoyateg/DonacionesBI/blob/main/img/dash2.jpg)
 
-![Dashboard 3](https://github.com/mateoyateg/DonacionesBI/blob/main/img/dash3.jpg)
-
 ## Autores ✒️
 
 
