@@ -2,8 +2,6 @@
 
 _Entregables y desarrollo del proyecto final de la asignatura de Tendencias Avanzadas de Ing. de Software relacionado con el caso BPO Donaciones desarrollado a lo largo del semestre._
 
-_Integrantes: Mateo Yate Gonzalez, Paola Natasha Becerra & Haner Avella León._
-
 ## Fases del Proyecto ⛰️
 
 _A lo largo del semestre se desarrolló el proyecto en un conjunto de fases descritas a continuación:_
@@ -35,3 +33,11 @@ _A lo largo del semestre se desarrolló el proyecto en un conjunto de fases desc
 ![Dashboard 2](https://github.com/mateoyateg/DonacionesBI/blob/main/img/dash2.jpg)
 
 ![Dashboard 3](https://github.com/mateoyateg/DonacionesBI/blob/main/img/dash3.jpg)
+
+## Autores ✒️
+
+
+* **Mateo Yate Gonzalez** - *Diagramas en Power Bi.*
+* **Hanner Avella León** - *Base de datos de Recursos Humanos en MongoDB.*
+* **Paola Natasha Becerra** - *Base de datos de Gestión documental de Donaciones en PostgreSQL.*
+
