@@ -1,4 +1,4 @@
-# Proyecto de Caso BPO Donaciones: Proceso de ETL y BI
+# Proyecto de Caso BPO Donaciones: Proceso de ETL y BI 📈
 
 _Entregables y desarrollo del proyecto final de la asignatura de Tendencias Avanzadas de Ing. de Software relacionado con el caso BPO Donaciones desarrollado a lo largo del semestre._
 
