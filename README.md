@@ -47,3 +47,6 @@ _A lo largo del semestre se desarrolló el proyecto en un conjunto de fases desc
 * **Hanner Avella León** - *Base de datos de Recursos Humanos en MongoDB.*
 * **Paola Natasha Becerra** - *Base de datos de Gestión documental de Donaciones en PostgreSQL.*
 
+---
+Para más información visita la [documentación del proyecto](https://github.com/mateoyateg/DonacionesBI/blob/main/Documentacion%20-%20BPMN%20-%20ETL%20-%20Blockchain.pdf)
+
