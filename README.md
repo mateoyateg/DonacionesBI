@@ -8,7 +8,7 @@ _Entregables y desarrollo del proyecto final de la asignatura de Tendencias Avan
 * [PostgreSQL](https://www.postgresql.org/) - Base de datos de gestión documental de donaciones.
 * [MongoDB](https://www.mongodb.com/es) - Base de datos de recursos humanos.
 
-## Fases del Proyecto ⛰️
+## Fases del Proyecto 🧗🏻
 
 _A lo largo del semestre se desarrolló el proyecto en un conjunto de fases descritas a continuación:_
 
